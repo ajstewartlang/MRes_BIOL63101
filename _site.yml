@@ -1,0 +1,8 @@
+navbar:
+  title: Andrew's Psychology MRes Unit BIOL63101
+
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly 
