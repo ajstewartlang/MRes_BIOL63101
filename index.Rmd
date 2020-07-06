@@ -13,6 +13,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+&nbsp;&nbsp;
+
 Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. Click on the video below for a message from me and information about how this unit will run. 
 
 <center>
@@ -27,9 +29,10 @@ Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. uni
 
 As well as being able to contact me via [email](mailto:drandrewjstewart@gmail.com) you can also contact me via our dedicated Slack channel. You can subscribe to this channel simply by clicking on [this link](https://join.slack.com/t/andrew-open-research/shared_invite/zt-fdaqq2y9-Qd2avTuxi2rIrM1psTjMIA). You can install the Slack app on your computer or phone - I recommend you do this as interacting with Slack via the app is really great. 
 
-You can speak to me in one of the timetabled Zoom sessions I have set up - or via a personal meeting request - just ping me via email or Slack to request that. Additionally, you can follow me on [Twitter](https://twitter.com/ajstewart_lang?lang=en) where you'll see me tweet and re-tweet lots of Open Research and R content.
+You can speak to me in one of the timetabled Zoom sessions (the details of those are on Blackboard) or via a personal meeting request - just ping me via email or Slack to request that. Additionally, you can follow me on [Twitter](https://twitter.com/ajstewart_lang?lang=en) where you'll see me tweet and re-tweet lots of Open Research and R content.
 
 &nbsp; &nbsp;  
+&nbsp;&nbsp;
 
 # Workshop 1
 ## Open Research and Reproducibility
@@ -58,6 +61,8 @@ The second part of the workshop involves a very brief overview of open source so
 
 </center>
 
+&nbsp;&nbsp;
+
 # Workshop 2 
 ## Starting with R and RStudio Desktop
 
@@ -72,6 +77,8 @@ In this workshop I'll introduce you to R (the language) and RStudio Desktop (the
 &nbsp; &nbsp;  
 
 </center>
+
+&nbsp;&nbsp;
 
 # Workshop 3
 ## Data Wrangling
@@ -88,6 +95,8 @@ In this workshop I will introduce you to a number of key packages known as the `
 
 </center>
 
+&nbsp;&nbsp;
+
 ## Summarising Your Data
 
 Once you have completed this first part and have your R script up and running, click on the image below for the second part where you'll learn how to aggregate and summarise your data.  
@@ -101,6 +110,8 @@ Once you have completed this first part and have your R script up and running, c
 &nbsp; &nbsp;  
 
 </center>
+
+&nbsp;&nbsp;
 
 # Workshop 4
 ## Data Visualisation
@@ -116,3 +127,5 @@ We will now move on to explore the basics of Data Visualization using R. Just cl
 &nbsp;  
 
 </center>
+
+&nbsp;&nbsp;
