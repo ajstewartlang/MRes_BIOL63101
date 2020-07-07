@@ -66,7 +66,7 @@ The second part of the workshop involves a very brief overview of open source so
 # Workshop 2 
 ## Starting with R and RStudio Desktop
 
-In this workshop I'll introduce you to R (the language) and RStudio Desktop (the environment we use to interact with the language). I've also added a link to a great talk by the founder of RStudio, JJ Alaire. At the end of the workshop I have put together a video which will allow you to run your first R script.
+In this workshop I'll introduce you to R (the language) and RStudio Desktop (the environment we use to interact with the language). I've also added a link to a great talk by the founder of RStudio, J.J. Alaire. At the end of the workshop I have put together a video which will allow you to run your first R script.
 
 <center>
 
@@ -131,7 +131,7 @@ We will now move on to explore the basics of Data Visualization using R. Just cl
 &nbsp;&nbsp;
 
 # Workshop 5
-## Simple Linear Regression
+## GLM - Simple Linear Regression
 
 We will now move on to explore Simple Regression in the context of the General Linear Model (GLM).
 
@@ -148,7 +148,7 @@ We will now move on to explore Simple Regression in the context of the General L
 &nbsp;&nbsp;
 
 # Workshop 6
-## Multiple Regression
+## GLM - Multiple Regression
 
 We will now move on to explore Multiple Regression in the context of the General Linear Model (GLM).
 
