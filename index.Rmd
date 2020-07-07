@@ -131,7 +131,7 @@ We will now move on to explore the basics of Data Visualization using R. Just cl
 &nbsp;&nbsp;
 
 # Workshop 5
-## The General Linear Model- Regression 1
+## Simple Linear Regression
 
 We will now move on to explore Simple Regression in the context of the General Linear Model (GLM).
 
@@ -148,7 +148,7 @@ We will now move on to explore Simple Regression in the context of the General L
 &nbsp;&nbsp;
 
 # Workshop 6
-## The General Linear Model- Regression 2
+## Multiple Regression
 
 We will now move on to explore Multiple Regression in the context of the General Linear Model (GLM).
 
@@ -156,7 +156,7 @@ We will now move on to explore Multiple Regression in the context of the General
 
 &nbsp;  
 
-[![](images/glm_pt2.png){width=75%}](https://ajstewartlang.github.io/10_glm_regression_pt1/knitted_workshop/10_glm_regression_pt2.html)
+[![](images/glm_pt2.png){width=75%}](https://ajstewartlang.github.io/10_glm_regression_pt2/knitted_workshop/10_glm_regression_pt2.html)
 
 &nbsp;  
 
