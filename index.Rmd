@@ -15,7 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;&nbsp;
 
-Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. Click on the video below for a message from me and information about how this unit will run. 
+Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. This video (as with all the others in this unit) is best viewed in fullscreen mode at 1080 resolution. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful.
+
+Click on the video below for a message from me and information about how this unit will run. 
 
 &nbsp;&nbsp;
 
@@ -31,13 +33,15 @@ As well as being able to contact me via [email](mailto:drandrewjstewart@gmail.co
 
 You can speak to me in one of the timetabled Zoom sessions (the details of those are on Blackboard) or via a personal meeting request - just ping me via email or Slack to request that. Additionally, you can follow me on [Twitter](https://twitter.com/ajstewart_lang?lang=en) where you'll see me tweet and re-tweet lots of Open Research and R content.
 
+There are two assignments associated with this unit. The full details of these (plus hand in dates) can be found on the Blackboard page for this Unit.
+
 &nbsp; &nbsp;  
 &nbsp;&nbsp;
 
 # Workshop 1
 ## Open Research and Reproducibility
 
-In this workshop I will first introduce you to the key concepts in open research, and talk about the so-called "replication crisis" in the Psychological, Biomedical, and Life Sciences that has resulted in the Open Research revolution. I will also discuss the importance of adopting reproducible research practices in your own research, and provide an introduction to various tools and processes you can incorporate into your own research workflows that will allow you to conduct reproducible research. To go to the first part of the workshop, just click on the image below.
+In this workshop I will first introduce you to the key concepts in open research, and talk about the so-called "replication crisis" in the Psychological, Biomedical, and Life Sciences that has resulted in the Open Research movement I will also discuss the importance of adopting reproducible research practices in your own research, and provide an introduction to various tools and processes you can incorporate into your own research workflows that will allow you to conduct reproducible research. To go to the first part of the workshop, just click on the image below.
 
 <center>
 
@@ -66,7 +70,7 @@ The second part of the workshop involves a very brief overview of open source so
 # Workshop 2 
 ## Starting with R and RStudio Desktop
 
-In this workshop I'll introduce you to R (the language) and RStudio Desktop (the environment we use to interact with the language). I've also added a link to a great talk by the founder of RStudio, J.J. Alaire. At the end of the workshop I have put together a video which will allow you to run your first R script.
+In this workshop I'll introduce you to R (the language) and RStudio Desktop (the environment we use to interact with the language). I've also added a link to a great talk by the founder of RStudio, J.J. Alaire. At the end of the workshop I have put together a video which will show you how to run your first R script.
 
 <center>
 
@@ -83,7 +87,7 @@ In this workshop I'll introduce you to R (the language) and RStudio Desktop (the
 # Workshop 3
 ## Data Wrangling
 
-In this workshop I will introduce you to a number of key packages known as the `Tidyverse` packages. These packages contain a large number of functions for working with data in tidy format. By making our data wrangling reproducible (i.e., by coding it in R), we can easily re-run this stage of our analysis pipeline as new data gets added. Reproducibility of the data wrangling stage is a key part of the analysis process and often gets overlooked in terms of it being reproducible. There are two parts to this workshop. The first focuses on data wrangling/tidying. To go to this first part, just click on the image below.
+In this workshop I will introduce you to a number of key packages known as the `Tidyverse` These packages contain a large number of functions for working with data in tidy format. By making our data wrangling reproducible (i.e., by coding it in R), we can easily re-run this stage of our analysis pipeline as new data gets added. Reproducibility of the data wrangling stage is a key part of the analysis process and often gets overlooked in terms of it being reproducible. There are two parts to this workshop. The first focuses on data wrangling/tidying. To go to this first part, just click on the image below.
 
 <center>
 
@@ -116,7 +120,7 @@ Once you have completed this first part and have your R script up and running, c
 # Workshop 4
 ## Data Visualisation
 
-We will now move on to explore the basics of Data Visualization using R. Just click on the image below to start.  
+In this workshope we will explore the basics of Data Visualization using R. You'll have the opportunity to write an R script on your own computer that will generate some nice data visualisations. Just click on the image below to start.  
 
 <center>
 
@@ -131,15 +135,15 @@ We will now move on to explore the basics of Data Visualization using R. Just cl
 &nbsp;&nbsp;
 
 # Workshop 5
-## GLM - Simple Linear Regression
+## Regression Part 1
 
-We will now move on to explore Simple Regression in the context of the General Linear Model (GLM).
+In this workshop we will explore Simple Regression in the context of the General Linear Model (GLM). You will also have the opportunity to build some regression models where you predict an outcome variable on the basis of one predictor. You will also learn how to run model diagnostics to ensure you are not violating any key assumptions of regression.
 
 <center>
 
 &nbsp;  
 
-[![](images/glm_pt1.png){width=75%}](https://ajstewartlang.github.io/09_glm_regression_pt1/knitted_workshop/09_glm_regression_pt1.html)
+[![](images/glm_regression_pt1.png){width=75%}](https://ajstewartlang.github.io/09_glm_regression_pt1/knitted_workshop/09_glm_regression_pt1.html)
 
 &nbsp;  
 
@@ -148,15 +152,15 @@ We will now move on to explore Simple Regression in the context of the General L
 &nbsp;&nbsp;
 
 # Workshop 6
-## GLM - Multiple Regression
+## Regression Part 2
 
-We will now move on to explore Multiple Regression in the context of the General Linear Model (GLM).
+In this workshop will explore Multiple Regression in the context of the General Linear Model (GLM). Multiple Regressions builds on Simple Regression, except that having one predictor (as is the case with Simple Regression) we will be dealing with multiple predictors. Again, you will have the opporunity to build some regression models and use various methods to decide which one is 'best'. You will also learn how to run model disagnostics for these models as you did in the case of Simple Regression.
 
 <center>
 
 &nbsp;  
 
-[![](images/glm_pt2.png){width=75%}](https://ajstewartlang.github.io/10_glm_regression_pt2/knitted_workshop/10_glm_regression_pt2.html)
+[![](images/glm_regression_pt2.png){width=75%}](https://ajstewartlang.github.io/10_glm_regression_pt2/knitted_workshop/10_glm_regression_pt2.html)
 
 &nbsp;  
 
@@ -164,4 +168,70 @@ We will now move on to explore Multiple Regression in the context of the General
 
 &nbsp;&nbsp;
 
-END
+# Workshop 7 
+## R Markdown
+
+In this workshop I will show you how to generate a report in `.html` format using R Markdown. R Markdown generated reports allow you to combine narrative that you've written with R code, and the output associated with that code all in one `knitted` document. The assignments for this unit need to be produced using R Markdown.
+
+[TO ADD]
+
+&nbsp;&nbsp;
+
+# Workshop 8
+## ANOVA Part 1
+
+In this workshop we will explore Analysis of Variance (ANOVA) in the context of model building in R for between participants designs, repeated measures designs, and factorial designs. You will learn how to use the `afex::` package for building models with Type III Sums of Squares, and the `emmeans::` package to conduct follow up tests to explore main effects and interactions. This workshop is intended to keep you occupied for *two* sessions (i.e., 4 hours in total). 
+
+<center>
+
+&nbsp;  
+
+[![](images/glm_anova_pt1.png){width=75%}](https://ajstewartlang.github.io/11_glm_anova_pt1/knitted_workshop/11_glm_anova_pt1.html)
+
+&nbsp;  
+
+</center>
+
+&nbsp;&nbsp;
+
+# Workshop 9
+## ANOVA Part 2
+
+In this workshop we will build on Workshop 7 to explore Analysis of Covariance (ANCOVA). In this workshop we will also examine ANOVA and ANCOVA as special cases of regression and see how we can build both via a linear model. By then doing this yourselves, you wil hopefully be convinced that ANOVA and regression are really the same thing.
+
+
+<center>
+
+&nbsp;  
+
+[![](images/glm_anova_pt2.png){width=75%}](https://ajstewartlang.github.io/12_glm_anova_pt2/knitted_workshop/12_glm_anova_pt2.html)
+
+&nbsp;  
+
+</center>
+
+&nbsp;&nbsp;
+
+# Workshop 10
+
+In this workshop you will have the opportunity to practice your R skills by exploring one of the Tidy Tuesday datasets.
+
+[TO ADD]
+
+&nbsp;&nbsp;
+
+# Workshop 11
+
+This workshop will introduce you to Binder, a tool for allowing you to reproduce your computational environment, as well as your code and data, and share all of these with a collaborator via sharing a simple web link.
+
+[TO ADD]
+
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+## Technical Details
+All of the material in this workshop was created using open source where possible using my [Entroware Apollo laptop](https://www.entroware.com/store/) running [GNU/Linux distro Ubuntu LTS 20.04](https://releases.ubuntu.com/20.04/). The audio was captured with a [Fifine USB Podcasting microphone](https://www.amazon.co.uk/Condenser-Microphone-Recording-Interface-Power-K669/dp/B01N034RTC/ref=sr_1_1_sspa?crid=141Z8ED4VGCVD&dchild=1&keywords=fifine+usb+podcast+condenser+microphone&qid=1594989611&sprefix=fifne+usb%2Caps%2C162&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFMzAxOE5DUDJIREwmZW5jcnlwdGVkSWQ9QTA4MzA2NjIxVU40MlhNMFNCTDhWJmVuY3J5cHRlZEFkSWQ9QTA5NDI2OTQxOFY0R002UVJBS1AzJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) and the video with a [Razer Kiyo webcam](https://www.amazon.co.uk/Razer-Streaming-Adjustable-Brightness-Microphone/dp/B076QK6489/ref=sr_1_3?dchild=1&keywords=razer+kiyo&qid=1594989677&sr=8-3). The audio and video were recorded using [Open Broadcast Software](https://obsproject.com/) and edited using [Shotcut](https://shotcut.org/). The R code was written using [R 3.6.3](https://www.r-project.org/), and run in the [RStudio Desktop IDE](https://rstudio.com/products/rstudio/download/) version 1.3.959. 
+
+Ubuntu LTS 20.04, OBS, Shotcut, R, and RStudio Desktop are all [open source](https://en.wikipedia.org/wiki/Open-source_software). 
+
+The source code for each of the Workshops above is licensed under the [MIT license](https://opensource.org/licenses/MIT), and the lecture content under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
