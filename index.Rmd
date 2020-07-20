@@ -207,7 +207,6 @@ In this workshop we will explore Analysis of Variance (ANOVA) in the context of 
 
 In this workshop we will build on Workshop 7 to explore Analysis of Covariance (ANCOVA). In this workshop we will also examine ANOVA and ANCOVA as special cases of regression and see how we can build both via a linear model. By then doing this yourselves, you wil hopefully be convinced that ANOVA and regression are really the same thing.
 
-
 <center>
 
 &nbsp;  
@@ -232,9 +231,16 @@ In this workshop you will have the opportunity to practice your R skills by expl
 
 This workshop will introduce you to Binder, a tool for allowing you to reproduce your computational environment, as well as your code and data, and share all of these with a collaborator via sharing a simple web link.
 
-[TO ADD]
+<center>
 
-&nbsp;&nbsp;
+&nbsp;  
+
+[![](images/binder.png){width=75%}](https://ajstewartlang.github.io/23_introduction_to_binder/knitted_workshop/23_introduction_to_binder.html)
+
+&nbsp;  
+
+</center>
+
 &nbsp;&nbsp;
 
 ## Technical Details
