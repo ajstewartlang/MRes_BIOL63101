@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;&nbsp;
 
-Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. This video (as with all the others in this unit) is best viewed in fullscreen mode at 1080 resolution. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful.
+Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. This video (as with all the others in this unit) is best viewed in fullscreen mode at 1080 resolution. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful. They are *fairly* accurate.
 
 Click on the video below for a message from me and information about how this unit will run. 
 
@@ -53,7 +53,19 @@ In this workshop I will first introduce you to the key concepts in open research
 
 </center>
 
-The second part of the workshop involves a very brief overview of open source software, the use of which is arguably key for researchers to be able to adopt open and reproducible research workflows. To view this second part, just click on the image below.
+The second part of this workshop covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Much of the issues stem from researchers not spending sufficient time considering the power aspects of their research design. In this video, I'll provide you with an overview of some of these issues - just click on the image below to view this second part of the workshop:
+
+<center>
+
+&nbsp;  
+
+[![](images/open_research.png){width=75%}](https://ajstewartlang.github.io/01_open_research_and_reproducibility/knitted_workshop/13_experimental_power.html)
+
+&nbsp; &nbsp;  
+
+</center>
+
+The third part of the workshop involves a very brief overview of open source software, the use of which is arguably key for researchers to be able to adopt open and reproducible research workflows. To view this third part, just click on the image below.
 
 <center>
 
