@@ -55,13 +55,13 @@ In this workshop I will first introduce you to the key concepts in open research
 
 ## Experimental Power
 
-The second part of this workshop covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Much of the issues stem from researchers not spending sufficient time considering the power aspects of their research design. In this video, I'll provide you with an overview of some of these issues - just click on the image below to view this second part of the workshop:
+The second part of this workshop covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Many of the issues stem from researchers not spending sufficient time considering the power aspects of their research design. In this workshop, I'll provide you with an overview of some of the issues - just click on the image below to view this second part of the workshop:
 
 <center>
 
 &nbsp;  
 
-[![](images/open_research.png){width=75%}](https://ajstewartlang.github.io/01_open_research_and_reproducibility/knitted_workshop/13_experimental_power.html)
+[![](images/experimental_power.png){width=75%}](https://ajstewartlang.github.io/13_experimental_power/knitted_workshop/13_experimental_power.html)
 
 &nbsp; &nbsp;  
 
