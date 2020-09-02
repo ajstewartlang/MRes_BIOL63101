@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;&nbsp;
 
-Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. This video (as with all the others in this unit) is best viewed in fullscreen mode at 1080 resolution. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful. They are *fairly* accurate.
+Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. The following video (as with all the others in this unit) is best viewed in fullscreen mode at 1080 resolution. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful. They are *fairly* accurate.
 
 Click on the video below for a message from me and information about how this unit will run. 
 
@@ -103,7 +103,7 @@ In this workshop I'll introduce you to R (the language) and RStudio Desktop (the
 # Workshop 3
 ## Data Wrangling
 
-In this workshop I will introduce you to a number of key packages known as the `Tidyverse` These packages contain a large number of functions for working with data in tidy format. By making our data wrangling reproducible (i.e., by coding it in R), we can easily re-run this stage of our analysis pipeline as new data gets added. Reproducibility of the data wrangling stage is a key part of the analysis process and often gets overlooked in terms of it being reproducible. There are two parts to this workshop. The first focuses on data wrangling/tidying. To go to this first part, just click on the image below.
+In this workshop I will introduce you to a number of key packages known as the `Tidyverse` These packages contain a large number of functions for working with data in tidy format. By making our data wrangling reproducible (i.e., by coding it in R), we can easily re-run this stage of our analysis pipeline as new data gets added. Reproducibility of the data wrangling stage is a key part of the analysis process and often gets overlooked in terms of needing to ensure it is reproducible. There are two parts to this workshop. The first focuses on data wrangling/tidying. To go to this first part, just click on the image below.
 
 <center>
 
@@ -136,7 +136,7 @@ Once you have completed this first part and have your R script up and running, c
 # Workshop 4
 ## Data Visualisation
 
-In this workshope we will explore the basics of Data Visualization using R. You'll have the opportunity to write an R script on your own computer that will generate some nice data visualisations. Just click on the image below to start.  
+In this workshop we will explore the basics of Data Visualization using R. You'll have the opportunity to write an R script on your own computer that will generate some nice data visualisations. Just click on the image below to start.  
 
 <center>
 
@@ -204,7 +204,7 @@ In this workshop I will show you how to generate a report in `.html` format usin
 # Workshop 8
 ## ANOVA Part 1
 
-In this workshop we will explore Analysis of Variance (ANOVA) in the context of model building in R for between participants designs, repeated measures designs, and factorial designs. You will learn how to use the `afex::` package for building models with Type III Sums of Squares, and the `emmeans::` package to conduct follow up tests to explore main effects and interactions. This workshop is intended to keep you occupied for *two* sessions (i.e., 4 hours in total). 
+In this workshop we will explore Analysis of Variance (ANOVA) in the context of model building in R for between participants designs, repeated measures designs, and factorial designs. You will learn how to use the {afex} package for building models with Type III Sums of Squares, and the {emmeans} package to conduct follow up tests to explore main effects and interactions.
 
 <center>
 
@@ -236,14 +236,6 @@ In this workshop we will build on Workshop 7 to explore Analysis of Covariance (
 &nbsp;&nbsp;
 
 # Workshop 10
-
-In this workshop you will have the opportunity to practice your R skills by exploring one of the Tidy Tuesday datasets.
-
-[TO ADD]
-
-&nbsp;&nbsp;
-
-# Workshop 11
 
 This workshop will introduce you to Binder, a tool for allowing you to reproduce your computational environment, as well as your code and data, and share all of these with a collaborator via sharing a simple web link.
 
