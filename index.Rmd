@@ -221,7 +221,7 @@ In this workshop we will explore Analysis of Variance (ANOVA) in the context of 
 # Workshop 9
 ## ANOVA Part 2
 
-In this workshop we will build on Workshop 7 to explore Analysis of Covariance (ANCOVA). In this workshop we will also examine ANOVA and ANCOVA as special cases of regression and see how we can build both via a linear model. By then doing this yourselves, you wil hopefully be convinced that ANOVA and regression are really the same thing.
+In this workshop we will build on Workshop 8 to explore Analysis of Covariance (ANCOVA). In this workshop we will also examine ANOVA and ANCOVA as special cases of regression and see how we can build both via a linear model. By then doing this yourselves, you wil hopefully be convinced that ANOVA and regression are really the same thing.
 
 <center>
 
