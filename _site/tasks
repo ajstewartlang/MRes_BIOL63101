@@ -1,0 +1,88 @@
+Week 1 - Introduction, Open Science, and Power
+
+When you are in your breakout rooms/groups, your task is to:
+Come up with a name for your group.
+Add the name of your group below in the Google doc.
+Think about and discuss the following 4 questions in your groups. After discussion, under your group name write down your thoughts/answers in this Google doc. The questions are:
+
+How much did you know about the replication crisis and the importance of reproducibility in research before going through the Workshop 1 material?
+What do you think is the most important ‘take home’ message from the replication crisis?
+How has your own research area tackled the issue of reproducibility and replication?
+Have you used R before?
+
+Week 2 - Introduction to R
+
+Did you have any problems installing R and RStudio on your computers?  If you did, what were they and how did you solve them?
+
+Did you have any problems getting the “Your First R Script” script to run?  If you did, what were they?  Did you manage to solve them?  If so, how?
+
+Let’s change some of the bits of our script and see what happens. After each change, run the code and note down what changes.
+
+In the plot1 code, change `reorder(state, n)` to `state`. Run the code again - what changes?
+In the plot1 code, put a hash symbol # at the start of the line ‘coord_flip()’  - this will turn the line into a comment and it won’t be executed.Run the code again - what changes?
+In the plot1 code, put a hash symbol # at the start of the line `theme_minimal()`- this will turn the line into a comment and it won’t be executed.Run the code again - what changes?
+In the plot2 code, change the size and alpha values for the line `geom_point(size = .5, alpha = .25)`. Run the code again - what changes?
+In the plot3 code, change the size value in the line `theme(text = element_text(size = 15))` .Run the code again - what changes?
+
+Week 3 - Data Wrangling and Summarising Your Data
+
+In your groups, work through the Your Challenge section at the bottom of the Summarising Your Data section. Continue 
+wrangling and summarising the Star Wars dataset. Add below some interesting descriptive statistical facts about what you’ve discovered in 
+that dataset and paste the code you used to uncover those facts...
+
+Week 4 - Data Visualisation
+
+Section A (Complete before the live class please) Did you encounter any major or minor problems while working through the data 
+visualisation content? If so, can you list them below (and add your name please).
+
+Section B (Complete in class) In your groups, create some new visualisations using the mpg or NHANES datasets. One person 
+in each group should share their screen with the others in their breakout room - that person then types in and runs the code that you 
+create in your group. After the breakout rooms close, we’ll all return to the main room and in the main room I would like each group to 
+share with everyone else their best visualisation - and their worst!
+
+Week 5 - R Markdown
+
+Conver to R Markdown some of the R scripts you've created previously. Add headers, hide output that's not needed etc.
+
+Week 6 - GLM - Regression Part 1
+
+Complete the Your Challenge section at the bottom of the Regression 1 workshop.
+
+Week 7 - GLM - Regressoin Part 2
+
+This challenge involves using the ‘Coffee Ratings’ dataset from Tidy Tuesday on July 7th 2020. This readme contains information about the
+dataset and a data dictionary.
+
+You can download the data with:
+
+coffee_ratings <-
+read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-07-07/coffee_ratings.csv')
+
+Your task is to construct a regression model that best predicts coffee flavour using all or some of the following predictors: aroma, 
+aftertaste, acidity, body, balance, sweetness, uniformity, clean_cup, and moisture.
+
+Week 8
+
+Reading Week
+
+Week 9 - GLM - ANOVA Part 1
+
+Complete the You Challenge section of ANOVA part 1.
+
+Week 10 - GLM - ANOVA Part 2
+
+For those of you who didn’t get to finish the ‘Your Challenge’ section from the first ANOVA workshop, please do make sure you get that 
+done today - I want to ensure everyone leaves today’s session with practice in building ANOVA models for different designs.  The previous 
+workshop challenges can be found at the end here:
+
+https://ajstewartlang.github.io/11_glm_anova_pt1/knitted_workshop/11_glm_anova_pt1.html
+
+If you have completed the ‘Your Challenge’ section from the previous workshop, then what I’d like you to do today is build *regression* 
+models for the first 2 data sets that are the equivalent to the ANOVA models that you built previously. The asynchronous material for 
+today’s session focused a fair bit on demonstrating how you do that. This will (hopefully!) convince you that ANOVA and regression are 
+really just the same thing - and both are based on the General Linear Model.
+
+Week 11 - Binder
+
+I would like you to Binderise one of your R Scripts.
+
