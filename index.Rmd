@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+author: "Professor Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
 date: ""
 output: 
   html_document:
