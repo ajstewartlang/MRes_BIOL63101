@@ -18,11 +18,12 @@ Did you have any problems getting the “Your First R Script” script to run?  
 
 Let’s change some of the bits of our script and see what happens. After each change, run the code and note down what changes.
 
-In the plot1 code, change `reorder(state, n)` to `state`. Run the code again - what changes?
-In the plot1 code, put a hash symbol # at the start of the line ‘coord_flip()’  - this will turn the line into a comment and it won’t be executed.Run the code again - what changes?
-In the plot1 code, put a hash symbol # at the start of the line `theme_minimal()`- this will turn the line into a comment and it won’t be executed.Run the code again - what changes?
-In the plot2 code, change the size and alpha values for the line `geom_point(size = .5, alpha = .25)`. Run the code again - what changes?
-In the plot3 code, change the size value in the line `theme(text = element_text(size = 15))` .Run the code again - what changes?
+In the plot1 code, put a hash symbol # at the start of the line ‘coord_flip()’  - this will turn the line into a comment and it won’t be executed. Run the code again - what changes?
+In the plot1 code, put a hash symbol # at the start of the line `theme_minimal()`- this will turn the line into a comment and it won’t be executed. Run the code again - what changes?
+In the plot2 code, change the size and alpha values for the line `geom_point(size = .5, alpha = .25)`. Run the code again - what changes? Change to some other values and see what happens.
+In the plot3 code, change the size value in the line `theme(text = element_text(size = 15))`. Run the code again - what changes? Change to some other values and see what happens.
+In the plot3 code, change geom_col() to geom_point() - what changes? 
+
 
 Week 3 - Data Wrangling and Summarising Your Data
 
@@ -35,14 +36,17 @@ Week 4 - Data Visualisation
 Section A (Complete before the live class please) Did you encounter any major or minor problems while working through the data 
 visualisation content? If so, can you list them below (and add your name please).
 
-Section B (Complete in class) In your groups, create some new visualisations using the mpg or NHANES datasets. One person 
-in each group should share their screen with the others in their breakout room - that person then types in and runs the code that you 
-create in your group. After the breakout rooms close, we’ll all return to the main room and in the main room I would like each group to 
-share with everyone else their best visualisation - and their worst!
+Section B (Complete in class) In your groups, create some new visualisations using the mpg or NHANES or any 
+other dataset you want. One person in each group should share their screen with the others in their breakout 
+room - that person then types in and runs the code that you create in your group collaboratively. Paste your 
+creations into this Google doc under your group name. After the breakout rooms close, we’ll all return to the 
+main room and in the main room (if we have time) I would like each group to share with everyone else their best 
+visualisation - and their worst!
 
 Week 5 - R Markdown
 
-Conver to R Markdown some of the R scripts you've created previously. Add headers, hide output that's not needed etc.
+Convert to R Markdown some of the R scripts you've created previously. 
+Add headers, hide output that's not needed etc.
 
 Week 6 - GLM - Regression Part 1
 

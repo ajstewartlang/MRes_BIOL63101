@@ -1,24 +1,35 @@
 ---
-title: "Welcome"
-author: 'Professor Andrew Stewart, Twitter: @ajstewart_lang'
-date: ''
-output:
-  pdf_document:
-    toc: yes
-  html_document:
-    theme: flatly
-    toc: yes
-    toc_float: yes
+title: "test"
+output: pdf_document
+date: "2023-06-29"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-  
 
 Welcome to the Advanced Data Skills, Open Science and Reproducibility M.Res. unit BIOL63101. The following video (as with all the others in this unit) is best viewed in fullscreen mode. I have recorded the audio with a podcasting microphone, so it's best listened to with headphones. YouTube generates subtitles automatically, so please turn those in if you'd find them useful.
 
+Click on the video below for a message from me. I'll be teaching this unit via a flipped classroom model. Make sure you go through the recorded content for each workshop in advance of the live session for that workshop. 
+
+  
+
+<center>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/h_A9ti884dY" frameborder="0" data-external="1" allowfullscreen>
+
+</iframe>
+
+</center>
+
+  
+
+As well as being able to contact me via [email](mailto:drandrewjstewart@gmail.com) you can also contact me via our dedicated Slack channel. The details on how to join our Slack channel can be found on Blackboard. You can install the Slack app on your computer or phone - I recommend you do this as interacting with Slack via the app is really great.
+
+You can follow me on [Twitter](https://twitter.com/ajstewart_lang?lang=en) where you'll see me tweet and re-tweet lots of Open Research and R content.
+
+There are two assignments associated with this unit. The full details of these (plus hand in dates) can be found on the Blackboard page for this Unit.
 
    \
   
@@ -252,3 +263,4 @@ The structure for this unit was very much inspired by the [Sharing At Short Noti
 The repo for each workshop can be accessed via the 'Improve this Workshop' link at the bottom of each workshop page. The workshops and this website were all written using [R Markdown](https://rmarkdown.rstudio.com/) and the website is hosted on [Netlify](https://www.netlify.com/) via continunous deployment from [this GitHub repository](https://github.com/ajstewartlang/MRes_BIOL63101).
 
 The source code for each of the Workshops above is licensed under the [MIT license](https://opensource.org/licenses/MIT), and the lecture content under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+
